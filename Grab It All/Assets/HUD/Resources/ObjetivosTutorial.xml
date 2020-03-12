@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Objetivos>
+  <Objetivo>
+    <Tipo>Menus</Tipo>
+    <Mensaje>Abre el Inventario</Mensaje>
+    <MensajeAdd>Pulsa I para abrir el inventario</MensajeAdd>
+    <tipoInput>Inventario</tipoInput>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Menus</Tipo>
+    <Mensaje>Abre el menu de crafteo</Mensaje>
+    <MensajeAdd>Pulsa C para abrir el menu de crafteo</MensajeAdd>
+    <tipoInput>Craft</tipoInput>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Cantidad</Tipo>
+    <Mensaje>Consigue 2 clips</Mensaje>
+    <ID>2</ID>
+    <Cantidad>2</Cantidad>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Clave</Tipo>
+    <Mensaje>Fabrica una ganzua</Mensaje>
+    <ID>3</ID>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Posicion</Tipo>
+    <Mensaje>Accede a la sala de ordenadores</Mensaje>
+    <minX>-59</minX>
+    <minZ>35</minZ>
+    <maxX>-26</maxX>
+    <maxZ>62</maxZ>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Posicion</Tipo>
+    <Mensaje>Deja KO al guardia que vigila la caja</Mensaje>
+    <minX>0</minX>
+    <minZ>0</minZ>
+    <maxX>0</maxX>
+    <maxZ>0</maxZ>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Posicion</Tipo>
+    <Mensaje>Roba la caja fuerte</Mensaje>
+    <minX>0</minX>
+    <minZ>0</minZ>
+    <maxX>0</maxX>
+    <maxZ>0</maxZ>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Posicion</Tipo>
+    <Mensaje>Encuentra la caja de seguridad</Mensaje>
+    <minX>-60</minX>
+    <minZ>63</minZ>
+    <maxX>-51</maxX>
+    <maxZ>88</maxZ>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Clave</Tipo>
+    <Mensaje>
+      Busca materiales para construir un taladro. Busca la bateria por la planta baja
+    </Mensaje>
+    <ID>5</ID>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Clave</Tipo>
+    <Mensaje>
+      Busca materiales para construir un taladro. Busca el motor por el segundo piso
+    </Mensaje>
+    <ID>4</ID>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Clave</Tipo>
+    <Mensaje>
+      Encuentra una tarjeta para entrar en la sala de seguridad
+    </Mensaje>
+    <ID>7</ID>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Clave</Tipo>
+    <Mensaje>
+      Activa la alarma para distraer a los guardias
+    </Mensaje>
+    <ID>800</ID>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Clave</Tipo>
+    <Mensaje>
+      Escondete en un armario
+    </Mensaje>
+    <ID>800</ID>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Clave</Tipo>
+    <Mensaje>
+      Consigue el motor
+    </Mensaje>
+    <ID>4</ID>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Clave</Tipo>
+    <Mensaje>
+      Craftea un taladro
+    </Mensaje>
+    <ID>6</ID>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Clave</Tipo>
+    <Mensaje>
+      Abre la caja de seguridad
+    </Mensaje>
+    <ID>800</ID>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Clave</Tipo>
+    <Mensaje>
+      Sal del edificio
+    </Mensaje>
+    <ID>8000</ID>
+  </Objetivo>
+  <Objetivo>
+    <Tipo>Clave</Tipo>
+    <Mensaje>
+      
+    </Mensaje>
+    <ID>8000</ID>
+  </Objetivo>
+</Objetivos>

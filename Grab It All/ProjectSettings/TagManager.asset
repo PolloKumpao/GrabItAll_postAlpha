@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CajaFuerte
+  - Floor
+  - Collectable
+  - enemyBack
+  - interactable
+  - TutorialPoint0
+  - TutorialPoint1
+  - TutorialPoint2
+  - TutorialPoint3
+  - TutorialPoint4
+  - Restricted1
+  - Restricted2
+  - Restricted3
+  - Restricted4
+  - StealRange
+  - Camera
+  - Armario
+  - Alarma
+  - Guard
+  - NPC
+  - Inventario
+  - Objetivos
+  - GM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - CajaFuerte
+  - LineRender
+  - Player
+  - ItemsThrou
+  - InvisiblePlayer
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

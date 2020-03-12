@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4006fa1ac5374fb4e883c885cb0b82c2, type: 3}
+  m_Name: Keys
+  m_EditorClassIdentifier: 
+  Value: 0
+  Num: 3
+  Name: Llave Maestra
+  Description: Llave maestra del Banco Central.
+  Model: {fileID: 588797763285628249, guid: 76c5f5b8bb5146c4795c020cd5cfaf4c, type: 3}
+  Icon: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
+  TimeCast: 0
+  TextUI: Pulsa [F] para Coger.
+  Dropable: 1

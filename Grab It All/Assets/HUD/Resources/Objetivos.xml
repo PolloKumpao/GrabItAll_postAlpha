@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Objetivos>
+      <Objetivo>
+        <Tipo>Dinero</Tipo>
+        <Mensaje>Consigue un botin de 100</Mensaje>
+        <cantidadObjetivo>100</cantidadObjetivo>
+      </Objetivo>
+    <Objetivo>
+      <Tipo>Posicion</Tipo>
+      <Mensaje>Llega al Hall</Mensaje>
+      <minX>10</minX>
+      <minZ>-17</minZ>
+      <maxX>20</maxX>
+      <maxZ>4</maxZ>
+    </Objetivo>
+    <Objetivo>
+      <Tipo>Cantidad</Tipo>
+      <Mensaje>Consigue 2 clips</Mensaje>
+      <ID>2</ID>
+      <Cantidad>2</Cantidad>
+    </Objetivo>
+    <Objetivo>
+      <Tipo>Clave</Tipo>
+      <Mensaje>Craftea una ganzua</Mensaje>
+      <ID>3</ID>
+    </Objetivo>
+     
+    
+  </Objetivos>
